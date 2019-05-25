@@ -1,6 +1,6 @@
 # GitPitch In-60-Seconds - A Very Short Tutorial.
 #
-mathjax : TeX-AMS_CHTML
+mathjax : TeX-MML-AM_HTMLorMML
 # TeX-MML-AM_HTMLorMML-full
 #
 # Theme Setting
