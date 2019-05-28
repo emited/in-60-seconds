@@ -4,7 +4,7 @@
 ---
 ---
 
-##### The Cauchy-Schwarz Inequality
+##### The Zablocki-Schwarz Inequality
 
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
